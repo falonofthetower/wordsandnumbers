@@ -3,6 +3,6 @@
     "id": 1,
     "name": "The Customer Is Always Taxed",
     "date": "February 15, 2017",
-    "tags": "taxes"
+    "tags": ["taxes"]
   }
 ]
